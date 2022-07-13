@@ -33,3 +33,5 @@ Add Mod
 
 >7. Keep TMM window open while playing
 >8. Now you can run Menma's TERA
+
+Compatible with the new version Menma's TERA 1.1 64 bit
