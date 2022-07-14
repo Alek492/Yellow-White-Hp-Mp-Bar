@@ -2,7 +2,7 @@
 >Yellow & White hp+mp bar for you character in Menma's TERA.
 
 # Display:
-* Extended mode
+* Extended 
 
 ![Sin título](https://user-images.githubusercontent.com/107570300/178819356-7ef5589c-b40f-40be-b58c-f1df0f4d07d1.jpg)
 
